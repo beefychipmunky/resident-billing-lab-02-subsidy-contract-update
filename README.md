@@ -26,3 +26,8 @@ Hands on lab simulating a subsidy contract update received after the billing per
 - Confirmed accurate ending balance
 - Maintained documentation for audit and compliance purposes
 
+## Screenshots
+
+### Subsidy Contract and Resident Ledger
+
+![Subsidy Contract and Resident Ledger](screenshots/lab02-subsidy-contract-and-ledger.png)
